@@ -1,6 +1,5 @@
 """
 Using the turtle graphics module, write a recursive program to display a Hilbert curve.
-first try to only draw a hilbert curve with first level facing up
 """
 
 import turtle
